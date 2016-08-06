@@ -1,0 +1,17 @@
+[802-3-ethernet]
+duplex=full
+mac-address=00:1E:67:FB:E8:0E
+
+[connection]
+id=Wired connection 1
+uuid=15164476-eba3-48b1-9245-d609b842c99a
+type=802-3-ethernet
+timestamp=1464458405
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=manual
+dns=10.129.3.12;
+address1=10.129.2.174/16,10.129.1.250
